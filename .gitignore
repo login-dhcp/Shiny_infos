@@ -1,6 +1,7 @@
-.idea
-/__pycache__/
+**/.idea
+**/__pycache__/
 
-deprecated
+/src
+/deprecated
 
 *.pptx
